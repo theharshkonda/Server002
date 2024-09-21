@@ -1,0 +1,74 @@
+{
+    "course": {
+      "title": "Complete Java, Spring, and Microservices course",
+      "videos": [
+        {
+          "title": "Java Tutorial for Beginners 2023",
+          "url": "https://www.youtube.com/watch?v=BGTx91t8q50",
+          "duration": "12:23:23",
+          "progress": 0
+        },
+        {
+          "title": "JUnit 5 Tutorial by Hyder Abbas",
+          "url": "https://www.youtube.com/watch?v=laPmEW913_k",
+          "duration": "2:12:04",
+          "progress": 0
+        },
+        {
+          "title": "Data Structures and Algorithms using Java",
+          "url": "https://www.youtube.com/watch?v=xWLxhF3b5P8",
+          "duration": "5:07:12",
+          "progress": 0
+        },
+        {
+          "title": "Git For Beginners 2023",
+          "url": "https://youtube.com/watch?v=vwj89i2FmG0",
+          "duration": "2:00:37",
+          "progress": 0
+        },
+        {
+          "title": "Servlet & JSP Tutorial | Full Course",
+          "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
+          "duration": "5:56:54",
+          "progress": 0
+        },
+        {
+          "title": "Hibernate Tutorial | Full Course",
+          "url": "https://www.youtube.com/watch?v=JR7-EdxDSf0",
+          "duration": "3:19:40",
+          "progress": 0
+        },
+        {
+          "title": "Rest API | Web Service Tutorial",
+          "url": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+          "duration": "2:34:40",
+          "progress": 0
+        },
+        {
+          "title": "Spring Framework and Microservices Full Course",
+          "url": "https://www.youtube.com/watch?v=Jl9OKQ92SJU",
+          "duration": "14:34:42",
+          "progress": 0
+        },
+        {
+          "title": "Project Using Spring Boot MVC",
+          "url": "https://www.youtube.com/watch?v=qHerCgPQ2e8",
+          "duration": "2:28:21",
+          "progress": 0
+        },
+        {
+          "title": "Java Spring Boot Mongodb Full Project",
+          "url": "https://www.youtube.com/watch?v=kYiLzIiHVY8",
+          "duration": "1:15:35",
+          "progress": 0
+        },
+        {
+          "title": "Microservices Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=h6aDu9e2L_s",
+          "duration": "1:50:45",
+          "progress": 0
+        }
+      ]
+    }
+  }
+  
