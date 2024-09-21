@@ -1,74 +1,84 @@
 {
-    "course": {
-      "title": "Complete Java, Spring, and Microservices course",
-      "videos": [
-        {
-          "title": "Java Tutorial for Beginners 2023",
-          "url": "https://www.youtube.com/watch?v=BGTx91t8q50",
-          "duration": "12:23:23",
-          "progress": 0
-        },
-        {
-          "title": "JUnit 5 Tutorial by Hyder Abbas",
-          "url": "https://www.youtube.com/watch?v=laPmEW913_k",
-          "duration": "2:12:04",
-          "progress": 0
-        },
-        {
-          "title": "Data Structures and Algorithms using Java",
-          "url": "https://www.youtube.com/watch?v=xWLxhF3b5P8",
-          "duration": "5:07:12",
-          "progress": 0
-        },
-        {
-          "title": "Git For Beginners 2023",
-          "url": "https://youtube.com/watch?v=vwj89i2FmG0",
-          "duration": "2:00:37",
-          "progress": 0
-        },
-        {
-          "title": "Servlet & JSP Tutorial | Full Course",
-          "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
-          "duration": "5:56:54",
-          "progress": 0
-        },
-        {
-          "title": "Hibernate Tutorial | Full Course",
-          "url": "https://www.youtube.com/watch?v=JR7-EdxDSf0",
-          "duration": "3:19:40",
-          "progress": 0
-        },
-        {
-          "title": "Rest API | Web Service Tutorial",
-          "url": "https://www.youtube.com/watch?v=BZi44GOD8kY",
-          "duration": "2:34:40",
-          "progress": 0
-        },
-        {
-          "title": "Spring Framework and Microservices Full Course",
-          "url": "https://www.youtube.com/watch?v=Jl9OKQ92SJU",
-          "duration": "14:34:42",
-          "progress": 0
-        },
-        {
-          "title": "Project Using Spring Boot MVC",
-          "url": "https://www.youtube.com/watch?v=qHerCgPQ2e8",
-          "duration": "2:28:21",
-          "progress": 0
-        },
-        {
-          "title": "Java Spring Boot Mongodb Full Project",
-          "url": "https://www.youtube.com/watch?v=kYiLzIiHVY8",
-          "duration": "1:15:35",
-          "progress": 0
-        },
-        {
-          "title": "Microservices Tutorial for Beginners",
-          "url": "https://www.youtube.com/watch?v=h6aDu9e2L_s",
-          "duration": "1:50:45",
-          "progress": 0
-        }
-      ]
-    }
+  "course": {
+    "title": "Complete Java, Spring, and Microservices course",
+    "videos": [
+      {
+        "title": "Java Tutorial for Beginners 2023",
+        "url": "https://www.youtube.com/watch?v=BGTx91t8q50",
+        "duration": "12:23:23",
+        "progress": 0,
+        "description": "Comprehensive introduction to Java programming. Covers syntax, OOP concepts, data types, control structures, and basic Java applications."
+      },
+      {
+        "title": "JUnit 5 Tutorial by Hyder Abbas",
+        "url": "https://www.youtube.com/watch?v=laPmEW913_k",
+        "duration": "2:12:04",
+        "progress": 0,
+        "description": "Learn JUnit 5 for effective unit testing in Java. Covers test annotations, assertions, test lifecycle, and best practices for writing robust tests."
+      },
+      {
+        "title": "Data Structures and Algorithms using Java",
+        "url": "https://www.youtube.com/watch?v=xWLxhF3b5P8",
+        "duration": "5:07:12",
+        "progress": 0,
+        "description": "Deep dive into essential data structures and algorithms implemented in Java. Covers arrays, linked lists, trees, sorting algorithms, and more."
+      },
+      {
+        "title": "Git For Beginners 2023",
+        "url": "https://youtube.com/watch?v=vwj89i2FmG0",
+        "duration": "2:00:37",
+        "progress": 0,
+        "description": "Master version control with Git. Learn about repositories, commits, branches, merging, and collaborating with remote repositories."
+      },
+      {
+        "title": "Servlet & JSP Tutorial | Full Course",
+        "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
+        "duration": "5:56:54",
+        "progress": 0,
+        "description": "Comprehensive guide to Java web development using Servlets and JavaServer Pages (JSP). Covers request handling, session management, and MVC pattern."
+      },
+      {
+        "title": "Hibernate Tutorial | Full Course",
+        "url": "https://www.youtube.com/watch?v=JR7-EdxDSf0",
+        "duration": "3:19:40",
+        "progress": 0,
+        "description": "Learn Hibernate ORM for Java. Covers object-relational mapping, entity relationships, HQL, caching, and integration with Spring."
+      },
+      {
+        "title": "Rest API | Web Service Tutorial",
+        "url": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+        "duration": "2:34:40",
+        "progress": 0,
+        "description": "Build RESTful web services in Java. Covers REST principles, HTTP methods, JSON parsing, authentication, and API documentation."
+      },
+      {
+        "title": "Spring Framework and Microservices Full Course",
+        "url": "https://www.youtube.com/watch?v=Jl9OKQ92SJU",
+        "duration": "14:34:42",
+        "progress": 0,
+        "description": "Comprehensive guide to Spring Framework and microservices architecture. Covers core Spring, Spring Boot, and building scalable microservices."
+      },
+      {
+        "title": "Project Using Spring Boot MVC",
+        "url": "https://www.youtube.com/watch?v=qHerCgPQ2e8",
+        "duration": "2:28:21",
+        "progress": 0,
+        "description": "Hands-on project tutorial using Spring Boot and MVC pattern. Build a complete web application from scratch, including frontend and backend."
+      },
+      {
+        "title": "Java Spring Boot Mongodb Full Project",
+        "url": "https://www.youtube.com/watch?v=kYiLzIiHVY8",
+        "duration": "1:15:35",
+        "progress": 0,
+        "description": "Build a full-stack application using Spring Boot and MongoDB. Covers NoSQL database integration, RESTful API development, and data modeling."
+      },
+      {
+        "title": "Microservices Tutorial for Beginners",
+        "url": "https://www.youtube.com/watch?v=h6aDu9e2L_s",
+        "duration": "1:50:45",
+        "progress": 0,
+        "description": "Introduction to microservices architecture. Learn about service discovery, API gateway, load balancing, and containerization with Docker."
+      }
+    ]
   }
-  
+}
